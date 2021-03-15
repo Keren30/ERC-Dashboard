@@ -1,0 +1,9 @@
+/* global gapi */
+/build/**
+/src/serviceWorker.js
+/src/**/*.css
+/src/**/*.scss
+/src/**/*.test.js
+/src/__tests__
+/src/redux
+/src/__mocks__
